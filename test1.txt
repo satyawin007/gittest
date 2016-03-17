@@ -1,1 +1,1 @@
-This is just updated text in master test1 data
+This is just test1 data
